@@ -4,3 +4,4 @@ tf-idf/bin/*
 tf-idf/include/*
 tf-idf/lib/*
 tf-idf/.vscode/*
+.vscode/*
