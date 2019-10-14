@@ -7,7 +7,7 @@ import nltk
 
 stop_words = set(nltk.corpus.stopwords.words('english'))
 script_dir = os.path.dirname(__file__)
-rel_path = "../sample"
+rel_path = "../sample.xml"
 workfolder = os.path.join(script_dir, rel_path)
 #Opens a new file
 with open(workfolder) as f:
