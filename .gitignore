@@ -5,3 +5,6 @@ tf-idf/include/*
 tf-idf/lib/*
 tf-idf/.vscode/*
 .vscode/*
+bin/*
+lib/*
+include/*
